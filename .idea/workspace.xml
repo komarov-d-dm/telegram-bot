@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e21a481-11cf-4762-8998-17bcabc27a40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d2rCjSyCYrG1HC5jNhMYDRIrdL" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="telegram-bot-ticket.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.telegram.bot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e21a481-11cf-4762-8998-17bcabc27a40" name="Default Changelist" comment="" />
+      <created>1591633904169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591633904169</updated>
+      <workItem from="1591633907270" duration="283000" />
+      <workItem from="1591634358635" duration="2976000" />
+      <workItem from="1591712182701" duration="556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="288" key="#com.intellij.ide.util.MemberChooser" timestamp="1591638143181">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="709" y="288" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1591638143181" />
+    <state x="100" y="123" width="1592" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591638182709">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="100" y="123" width="1592" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1591638182709" />
+    <state x="100" y="123" width="1592" height="897" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1591638182709">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="100" y="123" width="1592" height="897" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1591638182709" />
+    <state x="573" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1591633916624">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="573" y="404" key="com.intellij.ide.util.TipDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1591633916624" />
+    <state x="273" y="185" key="new project wizard" timestamp="1591650525951">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="273" y="185" key="new project wizard/0.23.1792.1097@0.23.1792.1097" timestamp="1591650525951" />
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1591635093765">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1591635093765" />
+  </component>
+</project>
